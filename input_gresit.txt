@@ -1,0 +1,49 @@
+int x = 23;
+int x1;
+int x2;
+float f1 = 50.0;
+string s = "ana";
+char c="asda";
+int integer=5.5;
+float floating = 5;
+string prop = 6;
+int array[5]=[1,2,3,4,5,6];
+int function(int a, float a){}
+
+int testFunction(int x, float z) {
+}
+
+int testFunction(int x, float z) {
+}
+
+int testFunction(float x, float z) {
+}
+
+int test(int param) {
+}
+
+class as{
+    private: 
+        int a;
+    public: 
+        char b;
+}
+start
+    const int constant;
+    int j;
+    j=f(j,j);
+    x3 = x + 2;
+	f1 = x + x2;
+	f1 = test (5) + x;
+    x = test(5) + f1; 
+	x = s + f1;
+    test(f1);
+	test(5,f1);
+    constant = (5*3+x)/7 -2;
+    array[6]=23;
+    x3=testFunction(x,s);
+	TypeOf(f1+x);
+    Eval(f1);
+    Eval(f1+x);
+	test(5+f1);
+end

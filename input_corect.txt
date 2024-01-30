@@ -1,0 +1,72 @@
+int x;
+int x1;
+int x2;
+int y;
+int arr[5]=[34,5,0,45];
+int vector[15]=[3,23,2,4,5];
+
+string propozitie;
+char functie(){}
+int f(float a , int b , int c){}
+int f(int a, int b){}
+int test(int param1, int param2, float f) {
+}
+int testFunction(int x, float z) {
+}
+
+int testFunction(int x, int z) {
+}
+class as{
+    private: 
+        int a;
+    public: 
+        char b;
+}
+
+start
+const int b=4;
+float num=4.5;
+int negativ = 5;
+int variabila=10;
+int j=10;
+int a=5;
+int h=3;
+char litera;
+const char c='c';
+string e="tarzan";
+e="ceva";
+litera='a';
+
+negativ = -(negativ * b);
+h=h*10+h;
+arr[2]=3+arr[2]+b;
+vector[7]=3;
+if(![(b+4)<f(num,h,vector[1])] && (a*10+(5+vector[0])) >= b){
+    a=1+b;
+    for(j=1 ; j<5; j=j+1){
+            a=1+a+b;
+            while([variabila < (a+vector[2])]){
+            a=1+a+b;    
+            }
+    }
+}
+arr[2]=0;
+x=10;x1=20;x2=30;y=0;
+
+if(x1 + test(x1,x2,num) < 5+x1 && [[x>2 || x1<4+x2] || x==2]){
+    x=2;
+}
+
+x = test(x, y,num) + (30 - y * arr[2]) - 10;
+x1 = x*100 + 5*100 + arr[2];
+Eval(x*10-100);
+Eval(x1);
+Eval(x2* 10-200) ;
+Eval(x+ test(x1,x,num)); 
+Typeof(x+23);
+
+
+
+Typeof(arr[1]);
+Typeof("ceva");
+end
